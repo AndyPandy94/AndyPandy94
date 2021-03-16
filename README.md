@@ -1,11 +1,5 @@
-👋 Hi, I’m @AndyPandy94. 
-- I have recently completed the Le Wagon Bootcamp programming course and I am hoping to further develop the skills that I have gained through this course!
-- I am currently using code academy to learn React as this is a very useful tool to increase my Javascript versatility.
 <h1 align="center">Hi 👋, I'm Andy</h1>
-<h3 align="center">A passionate frontend developer from London</h3>
-
-- 🌱 I’m currently learning **React**
-
+<h3 align="center">I have recently completed the Le Wagon Bootcamp programming course and I am hoping to further develop the skills that I have gained through this course! I am currently using code academy to learn React as this is a very useful tool to increase my Javascript versatility.</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/andreas-achilleos/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/andreas-achilleos/" height="30" width="40" /></a>
